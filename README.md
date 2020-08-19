@@ -1,6 +1,6 @@
 ### Hi there I'm Mr. Jamie Bowman 👋
 
-🔭 I’m currently working on distributed systems in .NET
+🔭 I’m currently working on distributed systems in .NET   
 🌱 I’m currently learning Kubernetes/Helm, Penetration Testing, Azure
 
 
