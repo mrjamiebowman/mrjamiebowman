@@ -1,8 +1,6 @@
 ### Hi there I'm Mr. Jamie Bowman 👋
 
-🔭 I’m currently working on distributed systems in .NET   
-🌱 I’m currently learning Azure and Penetration Testing
-
+🔭 I’m currently working on distributed systems in .NET and I love Azure!
 
 <!--
 **mrjamiebowman/mrjamiebowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
