@@ -1,6 +1,6 @@
 ### Hi there I'm Mr. Jamie Bowman 👋
 
-🔭 I love .NET and Azure! Built my first website in 1996. I primarily work with financial technologies, cloud computing, Identity, with distributed systems.
+🔭 I'm a second generation .NET developer, Love .NET, Azure, and Distributed Systems! Built my first website in 1996. I primarily work with financial technologies, cloud computing, Identity, with distributed systems in a cloud first environment.
 
 <!--
 **mrjamiebowman/mrjamiebowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
